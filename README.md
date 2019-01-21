@@ -1,0 +1,2 @@
+# docs
+Clippedcode.com Documentation
