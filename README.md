@@ -4,9 +4,7 @@
 
 Unlock the full potential of your account. This document aims to simplify things when they get tough. Feel free to contribute to make it even more Simpler.
 
-![Clipped Code Documentation](https://cdn.clippedcode.com/images/docs/docs.png)
-
-&copy; Illustration/Image Copyrighted to [Clipped Code](https://clippedcode.com) [^1]
+![&copy; Illustration/Image Copyrighted to [Clipped Code](https://clippedcode.com)[^1]](https://cdn.clippedcode.com/images/docs/docs.png)
 
 **`Let's Learn and Harness!`**
 
