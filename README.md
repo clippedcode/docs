@@ -11,4 +11,3 @@ Unlock the full potential of your account. This document aims to simplify things
 ## Lets Get Started
 
 Clipped Code is a Modular Platform for Selling your Digital Assets Online. That means you can digitally install modules to extend your Dashboard as well as your Selling Possibilities.
-
