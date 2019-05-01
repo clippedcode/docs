@@ -1,4 +1,4 @@
-# What is Clipped Code
+# Introduction
 
 ## Codes to Creatives
 
